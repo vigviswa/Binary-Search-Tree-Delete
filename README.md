@@ -26,6 +26,12 @@ And so on.
 loop number is n and the pass number is m, for each loop, m will begin from n+1
 through N.
 
+## Contact
+If you loved what you read here and feel like we can collaborate to produce some exciting stuff, or if you
+just want to shoot a question, please feel free to connect with me on 
+<a href="https://www.linkedin.com/in/vigviswa/" target="_blank">LinkedIn</a>
+
+
 The order is checked as:
 Is A[n] > A[m] : #For Ascending order
 Then swap(A[n], A[m])
