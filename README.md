@@ -4,9 +4,9 @@ Delete an Element from a binary search tree and replace it with its predecessor
 
 The List assumes the Following values to be entered into the tree:
 
-1, 90, 65, 9, 7, 3, 2, 21, 12, 45, 33, 31, 56, 76, 87
+`1, 90, 65, 9, 7, 3, 2, 21, 12, 45, 33, 31, 56, 76, 87`
 
-# Algorithm
+## Algorithm
 
 The algorithm used for sorting is the Bubble sort algorithm. The algorithm is used for
 sorting any given data structure elements in an ascending or descending order.
@@ -26,12 +26,6 @@ And so on.
 loop number is n and the pass number is m, for each loop, m will begin from n+1
 through N.
 
-## Contact
-If you loved what you read here and feel like we can collaborate to produce some exciting stuff, or if you
-just want to shoot a question, please feel free to connect with me on 
-<a href="https://www.linkedin.com/in/vigviswa/" target="_blank">LinkedIn</a>
-
-
 The order is checked as:
 Is A[n] > A[m] : #For Ascending order
 Then swap(A[n], A[m])
@@ -42,3 +36,9 @@ Continue
 loop, A[0] will have the smallest element, after the second loop, A[1], and so on.
 
 4) After iterating through all loops, the numbers will appear in ascending order.
+
+
+## Contact
+If you loved what you read here and feel like we can collaborate to produce some exciting stuff, or if you
+just want to shoot a question, please feel free to connect with me on 
+<a href="https://www.linkedin.com/in/vigviswa/" target="_blank">LinkedIn</a>
